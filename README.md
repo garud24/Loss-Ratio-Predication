@@ -1,1 +1,2 @@
 # Loss-Ratio-Predication
+Implemented a predictive model using ML algorithms such as Lasso, Random Forest, Decision Tree, KNN,Linear Regression, and XGBoost, combined with data pre‐processing and analysis tools like pandas and scikit‐learn. It achieved high precise predictions for the loss ratios of auto insurance portfolio that facilitate strategic decision‐making and risk assessment in insurance portfolio management.
